@@ -20,7 +20,7 @@
    fetch the new files and activate() delete the old cache outright -- and it was
    a hand-edited line, i.e. one forgotten edit away from shipping nothing at all
    to a phone that would look perfectly up to date. */
-var CACHE = "madeira-2026-b159";
+var CACHE = "madeira-2026-b180";
 var FILES = [
   "./",
   "index.html",
